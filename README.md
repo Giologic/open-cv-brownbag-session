@@ -14,5 +14,12 @@ You will need to install Anaconda found in this link - [Downloads - Anaconda](ht
 
 Once Anaconda has been installed, create an en environment by clicking on import then look for environment.yml
 
+
+```
+conda activate <environment_name>
+pip install opencv-contrib-python
+```
+
 Install Jupyter notebook then Launch Jupyter notebook
+
 
