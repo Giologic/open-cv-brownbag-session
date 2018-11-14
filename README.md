@@ -16,10 +16,14 @@ Once Anaconda has been installed, create an en environment by clicking on import
 
 
 ```
+conda env create -f environment.yml
+conda list
 conda activate <environment_name>
 pip install opencv-contrib-python
 ```
 
 Install Jupyter notebook then Launch Jupyter notebook
-
+```
+jupyter notebook
+```
 
