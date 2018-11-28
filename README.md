@@ -59,6 +59,6 @@ If proceeded with the automatic installation, you need not install jupyter noteb
 ![Activate Environment](screenshots/install_jupyter.png)
 ![Activate Environment](screenshots/jupyter_dashboard.png)
 
-Proceed to open they .ipynb file
+Proceed to open the .ipynb file
 ![Activate Environment](screenshots/open_ipynb.png)
 
